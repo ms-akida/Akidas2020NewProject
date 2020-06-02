@@ -15,10 +15,5 @@ public class BasicNavigation {
         System.out.println(url);
         driver.close();
 
-        // Tessssssssssssssssssssssssssst
-        //assssssssdasdgasdgtvasbetaertbasdb
-
-        //654565465465465
-        // .asdfgasdgfsdfg
     }
 }
